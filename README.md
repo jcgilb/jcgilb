@@ -2,8 +2,6 @@
 
 Hey there, I'm a software engineer with a background in civil engineering. I hope to work on projects that can help people and make a positive impact!
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcgilb&count_private=true&theme=algolia&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299) -->
-
 ![jcgilb's Stats](https://github-readme-stats.vercel.app/api?username=jcgilb&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
 <!-- ![jcgilb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcgilb&theme=material-palenight&hide_border=false) -->
 
