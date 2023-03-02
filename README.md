@@ -1,6 +1,6 @@
 # jcgilb
 
-Hey there, I'm a software engineer with a background in civil engineering. I hope to work on projects that can help people and make a positive impact!
+Hey there, I'm a software developer with a background in civil engineering. I hope to work on projects that can help people and make a positive impact!
 
 ![jcgilb's Stats](https://github-readme-stats.vercel.app/api?username=jcgilb&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
 <!-- ![jcgilb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcgilb&theme=material-palenight&hide_border=false) -->
